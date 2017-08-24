@@ -1,3 +1,9 @@
+# VERSION 7.1
+# AUTHOR: Vinoth Govindarajan
+# DESCRIPTION: Acquia BLT stack for Drupal 8 Projects.
+# BUILD: docker build --rm -t cbcms/blt .
+# SOURCE: https://bitbucket.com/cbit/blt
+
 FROM php:7.1
 
 MAINTAINER Vinoth Govindarajan <vgovindarajan@collegeboard.org>
